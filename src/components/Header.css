@@ -1,0 +1,114 @@
+#header{
+    width: 10;
+    height: 10;
+    background-color: 0
+    
+}
+
+#h1{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 0%;
+color: #ffffff;
+
+}
+#card{
+    width: 100%;
+    height: 100vh;
+    background-color: #8f19d3d8;
+    margin-top: 0%;
+    margin-left: 0%;
+    border-radius: 0px;
+    box-shadow: 0px 0px 0px #8604ff;
+}
+#img{
+    display: flex;
+    justify-content: center;
+    
+
+
+}
+#imgg{
+    width: 300px;
+    height: 300px;
+    border-radius: 60%;
+    margin-top: 10%;
+    box-shadow: 20px 20px 10px #7f2eb4;
+    
+   
+
+}
+
+#nome{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 2.9em;
+    color:#ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+
+}
+#p{
+   text-align: center;
+    color: #ffffff;
+   font-size: 1em;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: bold;
+   margin-top: 2;
+}
+
+
+
+
+#botao1{
+    display: inline-block;
+    padding: 10px 114px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 13%;
+    justify-content: center;
+    margin-left: 15%;
+   
+}
+#a1{
+    text-decoration: none;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#botao2{
+
+    display: inline-block;
+    padding: 10px 120px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 13%;
+    justify-content: center;
+    margin-left: 15%;
+}
+#a2{
+    text-decoration: none;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#botao3{
+
+    display: inline-block;
+    padding: 10px 130px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 13%;
+    justify-content: center;
+    margin-left: 15%;
+}
+#a3{
+    text-decoration: none;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
